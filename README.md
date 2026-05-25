@@ -40,6 +40,58 @@ You don't just learn AI. You learn AI **with** AI. Then you build real things. T
 
 ---
 
+
+---
+
+## CONCEPTS
+
+| Concept | Description |
+|---|---|
+| **Ai** | Core concept — primary building block of ai engineering from scratch |
+| **Engineering** | Execution primitive handling engineering operations |
+| **Scratch** | Integration layer for scratch connectivity |
+| **Production** | Configuration and routing for production behavior |
+| **Claude Code** | Anthropic CLI — agentic coding and task execution |
+| **MCP** | Model Context Protocol — tool exposure standard |
+| **Skill** | Self-contained Claude Code capability module |
+| **Tier-0** | Free model routing: Groq → Ollama → DeepSeek |
+| **Context Window** | Token budget per session — managed via compression |
+| **Async Agent** | Background task agent — non-blocking parallel execution |
+
+---
+
+## 🔥 Hot Commands
+
+```bash
+# Clone and explore
+gh repo clone hmzainjamil/ai-engineering-from-scratch
+cd ai-engineering-from-scratch
+
+# Load as Claude Code skill
+cp -r . ~/.claude/skills/ai-engineering-from-scratch/
+
+# Run via MAE pipeline
+mae run "ai engineering from scratch - primary workflow"
+
+# Quick invoke via Claude
+claude -p "using AI capabilities: run main workflow"
+```
+
+## ■ tip
+> **Route sub-tasks to Tier-0 first** (Groq/Ollama) — saves Claude quota for synthesis only. Use `mae run` to auto-decompose complex tasks.
+
+---
+
+## ☠️ STARTUPS / BUSINESSES
+
+- **Digital agencies** — deploy as client delivery multiplier, 10× throughput
+- **SaaS founders** — integrate into existing Claude Code stack, zero infra overhead
+- **AI engineers** — fork and extend with custom domain logic
+- **Freelancers** — use as billable-hours accelerator for AI + engineering work
+
+---
+
+
 ## 🧠 AI-Native Learning
 
 This isn't a course you watch. It's a course you **use with your AI coding agent**.
@@ -607,3 +659,11 @@ See [ROADMAP.md](ROADMAP.md) for progress tracking (~290 hours, per-lesson time 
 <p align="center">
   MIT License. Use it however you want.
 </p>
+
+
+---
+
+## ⭐ Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=hmzainjamil/ai-engineering-from-scratch&type=Date)](https://star-history.com/#hmzainjamil/ai-engineering-from-scratch&Date)
+
