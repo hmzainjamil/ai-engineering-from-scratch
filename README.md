@@ -1,5 +1,9 @@
 # ai-engineering-from-scratch
 
+<!-- HMZ PORTFOLIO STANDARD -->
+> Portfolio status: active · Visibility: public · Source of truth: current repository source.
+<!-- END HMZ PORTFOLIO STANDARD -->
+
 <!-- HMZ PORTFOLIO CONTEXT START -->
 <p align="center"><a href="https://github.com/hmzainjamil/ai-engineering-from-scratch">Repository</a> · <a href="https://github.com/hmzainjamil/ai-engineering-from-scratch/issues">Issues</a> · <a href="https://github.com/hmzainjamil/ai-engineering-from-scratch/commits/main">Commits</a></p>
 <p align="center"><img alt="Last commit" src="https://img.shields.io/github/last-commit/hmzainjamil/ai-engineering-from-scratch.svg"> <img alt="Repository size" src="https://img.shields.io/github/repo-size/hmzainjamil/ai-engineering-from-scratch.svg"> <img alt="Visibility" src="https://img.shields.io/badge/visibility-public-blue"> <img alt="Status" src="https://img.shields.io/badge/status-active-success"></p>
